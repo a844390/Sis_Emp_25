@@ -1,9 +1,9 @@
 # Seguimiento de la Práctica
 
 Pasos a Realizar:
-1. Estudiar Documentación
+1. Estudiar Documentación -->
    Completado
-3. Estudiar, completar y depurar código inicial
+3. Estudiar, completar y depurar código inicial -->
    Completado
 5. Prueba de los leds
 6. Prueba de los pulsadores
