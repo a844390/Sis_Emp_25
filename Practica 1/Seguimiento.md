@@ -15,5 +15,6 @@ Pasos a Realizar:
 
 
 # Comentarios:
-Apartados 1 y 2 -> en la memoria se indican P4.4 - P4.7 salidas para led
-pero en el código aparece // P4.5 - P4.7 salidas para led
+Apartados 1 y 2 -> en la memoria se indican P4.4 - P4.7 salidas para led 
+
+Pero en el código aparece // P4.5 - P4.7 salidas para led
