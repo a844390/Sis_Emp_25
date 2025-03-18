@@ -18,3 +18,5 @@ Pasos a Realizar:
 Apartados 1 y 2 -> en la memoria se indican P4.4 - P4.7 salidas para led 
 
 Pero en el código aparece // P4.5 - P4.7 salidas para led
+
+Apartados 3, 4 y 5 --> hecho en el ordenador del lab, terminar codigo y venir a probar
